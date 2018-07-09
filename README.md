@@ -4,7 +4,7 @@ Habit Tracker (R) Version 1.0 17/11/24
 
 Desciption
 --------------------------------------------
--habit tracker that is tracked by using a table. When you are done that habit for the day you click "yes" on it 
+-Habit tracker that is tracked by using a table. When you are done that habit for the day you click "yes" on it 
 or whatever to click "no" there. 
 
 
