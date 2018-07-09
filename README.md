@@ -33,7 +33,7 @@ you’ll get one of 3 messages. Each contains a % - but if you completed the hab
 ask if you want to clear the habit and try again (it deletes the file and loads an 
 empty table, but that file name won’t exist again until you press “save” or fill up the table completely)
 
-f the date contains a space the program will have issues, so I added some code to make the program check if the date contains
+If the date contains a space the program will have issues, so I added some code to make the program check if the date contains
 a space - if it does then it won’t let you save the file
 
 -----------------------------------------------
