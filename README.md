@@ -42,7 +42,7 @@ phone:+1　778-806-5727 (Canada)
 E-mail:jaymeliao1226@gmail.com
 
 Copyright 2017 © Program Corpration. All right reserved.
-The Programis a subject to licence agreement, copyright,
+The Program is a subject to licence agreement, copyright,
 trademark, patent and other laws. 
 -----------------------------------------------
 -1.0- First Release
