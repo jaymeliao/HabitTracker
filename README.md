@@ -15,9 +15,9 @@ or whatever to click "no" there.
 Usage notes
 1.Load Button -> load the table after typing existed Habit.  To new a Habit, press load habit to clear table 
   after looking at another habit, clicking save button 
-2.Save Button -> save the data or save the new-created habbits.
+2.Save Button -> save the data or save the new-created habits.
    
-   To check if the habbit (file) is existed or not ,enter a Habit name in Habit Name text area and click load
+   To check if the habit (file) is existed or not ,enter a Habit name in Habit Name text area and click load
    -> load the table data in if yes, if no gives you a blank table which calls makeBlankTable(), create this file 
    until you click the save button (reference to note #1)
    
