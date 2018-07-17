@@ -1,15 +1,10 @@
 # HabitTracker
-The Habit Tracker Desktop application is developed by Java, Java Swing Class
+The Habit Tracker Desktop application is developed using Java, Java Swing Class
 Habit Tracker (R) Version 1.0 17/11/24
 
 Desciption
 --------------------------------------------
--Habit tracker that is tracked by using a table. When you are done that habit for the day you click "yes" on it 
-or whatever to click "no" there. 
-
-
-
-
+-Habit tracker keep user's record in a table. User clicks "yes" after completing the activity of the day and "no" for incompletion. 
 
 ----------------------------------------------
 Usage notes
