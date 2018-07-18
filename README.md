@@ -2,7 +2,7 @@
 The Habit Tracker Desktop application is developed by Java, Java Swing Class
 Habit Tracker (R) Version 1.0 17/11/24
 
-Desciption
+## Desciption
 --------------------------------------------
 -Habit tracker that is tracked by using a table. When you are done that habit for the day you click "yes" on it 
 or whatever to click "no" there. 
@@ -12,9 +12,8 @@ or whatever to click "no" there.
 
 
 ----------------------------------------------
-Usage notes
-1.Load Button -> load the table after typing existed Habit.  To new a Habit, press load habit to clear table 
-  after looking at another habit, clicking save button 
+## How to use
+1.Load Button -> load the table for existed Habit.  
 2.Save Button -> save the data or save the new-created habits.
    
    To check if the habit (file) is existed or not ,enter a Habit name in Habit Name text area and click load
